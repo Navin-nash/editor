@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-docx
+mammoth
+html2docx
+pdfkit
+pydantic
+aiofiles
+python-multipart
+pyhwp  
+beautifulsoup4
+Pillow
